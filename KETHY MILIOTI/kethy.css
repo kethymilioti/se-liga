@@ -1,0 +1,26 @@
+body{
+
+    background-color: rgb(87, 248, 38);
+}
+
+
+
+
+.hexa {
+
+       border: 2px  solid rgb(0, 0, 0);
+       color:blue
+ 
+}
+
+.neyzinho{
+ border: 2px solid rgb(248, 245, 63);
+ color:blue;
+
+}
+.pombo{
+border: 2px solid rgb(0, 0, 0);
+color:mediumblue
+
+}
+     
